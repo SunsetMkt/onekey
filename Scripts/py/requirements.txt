@@ -2,7 +2,7 @@ beautifulsoup4
 pytz
 certifi==2020.12.5
 chardet==4.0.0
-idna==2.10
+idna==3.7
 Jinja2==3.0.0
 MarkupSafe==2.0.0
 requests==2.25.1
